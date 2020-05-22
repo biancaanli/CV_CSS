@@ -1,0 +1,171 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  border-top: 7px dotted;
+  width: 5%;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  color: #EAF6F6;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  margin: 0;
+  background-color: #EAF6F6;
+  padding: 35px;
+}
+
+.middle-container {
+  padding: 50px;
+}
+
+.bianca {
+  width: 20%;
+  padding-top: 70px;
+}
+
+.hello {
+  font-weight: bold;
+  padding: 25px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Montserrat', serif;
+  font-weight: bolder;
+}
+
+.cloud-top {
+  position: relative;
+  left: 300px;
+  padding-top: 23px;
+}
+
+.cloud-bottom {
+  display: inline-block;
+  position: absolute;
+  margin-top: 25px;
+  padding-top: 25px;
+  left: 300px;
+}
+
+.mountain {
+  position: relative;
+  padding-top: 25px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  margin-top: 2.6rem;
+  color: #66bfbf;
+  line-height: 2;
+}
+
+h2 {
+  margin: 0;
+  font-family: 'Montserrat', serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', serif;
+  font-size: 2rem;
+  color: #11999e;
+}
+
+a {
+  color: #27496d;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+  padding-bottom: 70px;
+}
+
+.skills {
+  padding-top: 50px;
+  font-weight: bolder;
+}
+
+.beginning {
+  padding-bottom: 70px;
+  width: 40%;
+  margin: 0 auto;
+}
+
+.computer {
+  width: 45%;
+  float: left;
+  padding-right: 50px;
+}
+
+.computer-2 {
+  width: 50%;
+  float: right;
+  padding-left: 50px;
+}
+
+.get-in-touch {
+  padding-top: 70px;
+  font-weight: bolder;
+}
+.contact-me {
+  width: 40%;
+  margin: 0 auto;
+  padding: 25px;
+}
+.BUTTON_FMB {
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: Arial;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON_FMB:hover {
+  border: solid #000000 1px;
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #000000);
+  background-image: -moz-linear-gradient(top, #000000, #000000);
+  background-image: -ms-linear-gradient(top, #000000, #000000);
+  background-image: -o-linear-gradient(top, #000000, #000000);
+  background-image: linear-gradient(to bottom, #000000, #000000);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.copy {
+  margin: 0;
+  padding-top: 25px;
+}
+.help {
+  padding-bottom: 25px;
+}
+.footer-link {
+  padding-right: 20px;
+}
